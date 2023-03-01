@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\Lessons\RPGame\RPGame\RPGame\RPGame\bin\Debug\RPGame.exe
+C:\Users\Admin\Documents\Lessons\RPGame\RPGame\RPGame\RPGame\bin\Debug\RPGame.pdb
+C:\Users\Admin\Documents\Lessons\RPGame\RPGame\RPGame\RPGame\obj\Debug\RPGame.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Lessons\RPGame\RPGame\RPGame\RPGame\obj\Debug\RPGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Lessons\RPGame\RPGame\RPGame\RPGame\obj\Debug\RPGame.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Lessons\RPGame\RPGame\RPGame\RPGame\obj\Debug\RPGame.exe
+C:\Users\Admin\Documents\Lessons\RPGame\RPGame\RPGame\RPGame\obj\Debug\RPGame.pdb
